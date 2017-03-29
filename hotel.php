@@ -5,21 +5,19 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 
 <div class="text" style="margin-top:3%;margin-bottom: 5%;">
-	<p>CCTA 2017 will be held at the ocean front resort Mauna Lani Bay Hotel and Bungalows on the Big Island <a target="_blank" href="http://www.maunalani.com/" style="color:red">http://www.maunalani.com/</a>, 808-881-7911. The resort is approximately 23 miles or 30 minutes north of the Kona International Airport.</p>
+	<p>ERCS 2017 will be held next to the <a target="_blank" href="http://www3.hilton.com/en/hotels/texas/hilton-university-of-houston-HOUUHHF/index.html" style="color:red">Hilton University of Houston</a> hotel, +1-832-531-6300. The hotel is approximately 24 miles or 30 minutes north of the George Bush Intercontinental Airport.</p>
 	<p>
-	Special room rates for CCTA 2017 at the Mauna Lani Bay Hotel and Bungalows hotel are as follows, for 8/26/17 through 8/30/17:
+	Special room rates for ERCS 2017 at the Hilton Univerity of Houston hotel are as follows, for 4/24/17:
 		<ul>
-		<li>Standard - Garden View: $189</li>
-		<li>Ocean View: $199</li>
-		<li>Deluxe Ocean View: $219</li>
-		<li>Ocean Front: $269</li>
+		<li>Standard: $189</li>
+		<li>Junior Suite: $249</li>
 	</ul>
 	<br>
-	The above rates include the resort activity package, which offers many amenities such as overnight valet or self-parking, in-room internet access, fitness club, double beach cabana, discounts on resort activities, and more. All rates are based on double occupancy ($75 per additional adult beyond two). A limited number of rooms are available at each level, so we recommend that you make your reservations early.
+	The above rates include the hotel activity package, which offers many amenities such as overnight valet or self-parking, in-room internet access, fitness club, double beach cabana, discounts on resort activities, and more. All rates are based on double occupancy ($75 per additional adult beyond two). A limited number of rooms are available at each level, so we recommend that you make your reservations early.
 	</p>
 
-	<p>To book your room, please use the following link: <a style="color:red" href="http://bookings.ihotelier.com/bookings.jsp?groupID=1650953&hotelID=13074" target="_blank">Reserve your room</a> <br>
-	If you would like to call in to make room reservation, the number is 808-881-7911.</p>
+	<p>To book your room, please use the following link: <a style="color:red" href="http://www3.hilton.com/en/hotels/texas/hilton-university-of-houston-HOUUHHF/index.html" target="_blank">Reserve your room</a> <br>
+	If you would like to call in to make room reservation, the number is +1-832-531-6300.</p>
 
 	<div id="images" class="flex flex-wrap justify-center">
 		<div class="about-image" style="background: url(images/hotel/hotel1.jpg) 150px 150px"></div>

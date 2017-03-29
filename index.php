@@ -47,9 +47,38 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 
 <!-- 	<div style="font-size:30px;color:red;padding:20px; line-height: 30px;"> Paper Submission Deadline Extended to March 10!</div> -->
 
-	The inaugural 2017 IEEE Conference on Control Technology and Applications will be held on the beautiful Big Island of Hawai'i. This new conference, sponsored by the IEEE Control Systems Society, follows in the evolution of the former IEEE CCA to recent successful MSC venues, the last of which was held in 2016. The CCTA 2017 technical program will feature the presentation of contributed and invited papers, as well as tutorial sessions and workshops, focusing on technological advances and applications of control engineering. This focus includes all aspects of control engineering for practical control systems, from analysis and design, through simulation and hardware. Major themes of energy, healthcare, manufacturing, and transportation will feature applications of control technology for robotic, automotive, biomechanical, aerospace, power and energy systems, control of networks, and many others. <a href="plenary-speakers.php" style="color:red">Plenary lectures</a> focused on conference themes will be delivered on Monday and Wednesday as part of the conference program.
-	<br><br>
-	CCTA 2017 will be held at the Mauna Lani Bay Hotel and Bungalows on the Big Island (<a target="_blank" style="color:red" href="http://www.maunalani.com/experience/hawaii-hotel-photos">photos and videos here</a>). The venue is a medium-sized, serene  property on the west Kohala Coast, and the organizers have negotiated reasonable room rates which include all resort amenities. The Big Island of Hawai'i offers an abundance of natural beauty and sites, with 11 of the world's 13 climate zones. With a land mass of nearly twice the size of all other Hawaiian Islands combined, but with only a small fraction of the state's population, its diverse terrain spans green and black sand beaches to lush rainforests and waterfalls, and two active volcanoes within Volcanoes National Park.
+ERCS 2017: Emerging Research in Computer Science is a forum for students to
+perfect their research publication skills, and share and demonstrate their work. It
+encompasses a broad range of topics in an attempt to cover a wide variety of
+students' research interests. ERCS provides an insight into organization and
+function of academic conferences, what goes into making one, how decisions are
+made, and how research is evaluated. The goal of ERCS is to advance students'
+understanding of all aspects enveloping publication and promotion of their
+research.<br>
+Specific topics of interest include (but are not limited to):<br>
+<li> Artificial Intelligence </li>
+<li> Image Processing </li>
+<li> Computer Vision </li>
+<li> Compilers </li>
+<li> Database Systems </li>
+<li> Computer Graphics </li>
+<li> Human Computer Interaction </li>
+<li> Machine Learning </li>
+<li> Networking </li>
+<li> Operating Systems </li>
+<li> Parallel Computing </li>
+<li> Distributed Computing </li>
+<li> Computer Security </li>
+We invite technical papers reporting on original research, ground-breaking results
+and/or real-world experiences. It should contain enough background material to
+make them accessible. Submissions will be evaluated based on their quality,
+originality, clarity, relevance and correctness. A strong submission is characterized
+by clarity of presentation, rigor of experiment performed, as well as contribution to
+the scientific community and potential impact. The papers can describe results
+from collaborative project with other students, groups, or advisors, but the write-up
+should be done entirely by the student. In addition to citing relevant work, the
+authors must relate their submission to prior relevant publications.
+<br><br>
 </div>
 
 

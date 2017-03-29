@@ -24,7 +24,7 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<meta name="keywords" content="CCTA2017,Conference,MSC2017,Control Systems Society,IEEE,MSC,CCA,Conference on Control Applications, ISIC, International Symposium on Intelligent Control, CACSD, Conference on Computer-Aided Control System Design, Multi-Conference on Systems and Control,  Multi-Conference on Systems and Control,CCA,Conference on Control Applications,IEEE Conference on Control Applications,ISIC,CSS,CACSD, IEEE Control Systems Society Conferences,IEEE Conference on Computer-Aided Control System Design">
+	<meta name="keywords" content="ERCS2017,Conference">
 
 	<style type="text/css">
 
@@ -89,7 +89,7 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 				<div class="bars"><a href="#left-bar-container"><i class="fa fa-2x fa-bars"></i></a></div>
 				<div class="dates"><a href="#right-bar"><i class="fa fa-2x fa-calendar"></i></a></div>
 				<div id="header-title-container">
-					<div class="header-title bold flux-auto" style=""><img src="images/ieee-logo.png" style=""></img><div style="vertical-align: middle;display: inline-block;"><?php echo $json['header']['title'];?></div></div>
+					<div class="header-title bold flux-auto" style=""><!-- <img src="images/ieee-logo.png" style=""></img> --><div style="vertical-align: middle;display: inline-block;"><?php echo $json['header']['title'];?></div></div>
 					<div class="header-title bold" style="font-size: x-large;"><?php echo $json['header']['subtitle'];?></div>
 					<div class="header-title bold" style="font-size: large;"><?php echo $json['header']['dateTitle'];?></div>
 					<div class="header-title bold" style="font-size: medium;"><?php echo $json['header']['locationPlaceName'];?> <br> <?php echo $json['header']['locationAreaName'];?></div>
@@ -103,15 +103,15 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 					<p style="padding:0;margin:0;font-size:smaller">
 						<i style="color:red;margin-right:10px" class="fa fa-1x fa-newspaper-o"></i> 
 						<span id="news-ticker-content">
-							<a id="news-ticker-link" href="#">Paper submission opens December 15, 2016</a>
+							<a id="news-ticker-link" href="#">Paper submission opens April 1, 2016</a>
 						</span>
 					</p>
 				</div>
 			</div>
-			<div class="flex flex-wrap logos" style="width: 15%">
-				<div class="" style="margin-top:3%;width:100%;height:85px;background:url(images/css-logo.png) no-repeat"></div>
-				<div style="margin-top:1%;width:220px;height:85px;background:url(images/robotics-logo.png) no-repeat"></div>
-				<div style="margin-top:1%;width:220px;height:85px;background:url(images/sice-logo.png) no-repeat"></div>
+			<div class="flex flex-wrap logos" style="width: 50%">
+				<div class="" style="margin-top:3%;width:100%;height:85px;background:url(images/uh-logo.png) no-repeat"></div>
+				<div style="margin-top:1%;width:100%;height:85px;background:url(images/cs-logo.png) no-repeat"></div>
+				<!-- <div style="margin-top:1%;width:220px;height:85px;background:url(images/sice-logo.png) no-repeat"></div> -->
 			</div>
 		</div>
 		<div id="content-container" class="flex flex-auto flex-space-between">
@@ -124,8 +124,8 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 					<li name="events"><a href="events.php"><i class="fa fa-lg fa-calendar" aria-hidden="true"></i>EVENTS</a></li>
 					<li name="registration"><a href="registration.php"><i class="fa fa-lg fa-sign-in" aria-hidden="true"></i>REGISTRATION</a></li>
 					<li name="hotel"><a href="hotel.php"><i class="fa fa-lg fa-bed" aria-hidden="true"></i>HOTEL</a></li>
-					<li name="visa-information"><a href="sponsors.php"><i class="fa fa-lg fa-thumbs-up" aria-hidden="true"></i>SPONSORS</a></li>
-					<li name="visa-information"><a href="visa-information.php"><i class="fa fa-lg fa-globe" aria-hidden="true"></i>VISA INFORMATION</a></li>
+					<!-- <li name="visa-information"><a href="sponsors.php"><i class="fa fa-lg fa-thumbs-up" aria-hidden="true"></i>SPONSORS</a></li> -->
+					<!-- <li name="visa-information"><a href="visa-information.php"><i class="fa fa-lg fa-globe" aria-hidden="true"></i>VISA INFORMATION</a></li> -->
 
 				</ul>
 			</div>

@@ -1,53 +1,43 @@
 {
 	"meta":{
 		"conferenceYear": 2017,
-		"dateStart": "2017-08-27",
-		"dateEnd": "2017-08-30",
-		"conferenceName": "CCTA 2017"
+		"dateStart": "2017-04-24",
+		"dateEnd": "2017-04-24",
+		"conferenceName": "ERCS 2017"
 	},
 	"header":{
-		"title" : "CCTA 2017",
-		"subtitle" : "1st IEEE Conference on Control Technology and Applications",
-		"dateTitle" : "August 27-30, 2017",
-		"locationPlaceName": "The Mauna Lani Bay Hotel and Bungalows",
-		"locationAreaName": "Kohala Coast, Hawai'i",
-		"bannerImage":"images/hotel1-banner.jpg",
-		"bannerTopPlacement" : "-310px",
-		"bannerRightPlacement" : "-640px"
+		"title" : "ERCS 2017",
+		"subtitle" : "Emerging Research in Computer Science 2017",
+		"dateTitle" : "April 24, 2017",
+		"locationPlaceName": "Charles F. McElhinney Hall",
+		"locationAreaName": "University of Houston",
+		"bannerImage":"images/uh-banner.jpg",
+		"bannerTopPlacement" : "-180px",
+		"bannerRightPlacement" : "-650px"
 	},
 	"socialMediaLinks":{
-		"facebook":"https://www.facebook.com/IEEECCTA2017/",
-		"twitter":"https://twitter.com/CCTA2017"
+		"facebook":"https://www.facebook.com/ERCS2017/",
+		"twitter":"https://twitter.com/ERCS2017"
 	},
 	"dates":[
 		{
 			"title":"Paper Submission Opens (<a target='_blank' href='http://css.paperplaza.net/'>link</a>)",
-			"date": "December 15, 2016",
-			"showInNavBar": true
-		},
-		{
-			"title":"Invited Session Proposals Due",
-			"date": "Submission window closed",
-			"showInNavBar": true
-		},
-		{
-			"title":"Contributed and Invited Papers Due",
-			"date": "Submission window closed",
+			"date": "April 10, 2017",
 			"showInNavBar": true
 		},
 		{
 			"title":"Notification of Acceptance",
-			"date": "June 1, 2017",
+			"date": "April 17, 2017",
 			"showInNavBar": true
 		},
 		{
 			"title":"Final Submissions Due",
-			"date": "July 1, 2017",
+			"date": "April 23, 2017",
 			"showInNavBar": true
 		},
 		{
-			"title":"CCTA 2017 Conference Dates",
-			"date": "August 27-30, 2017",
+			"title":"ERCS 2017 Conference Dates",
+			"date": "April 24, 2017",
 			"showInNavBar": false
 		}
 	],
@@ -66,11 +56,6 @@
 					"openInNewWindow": false
 				},
 				{
-					"name": "Workshops",
-					"link": "workshop_guidelines.php",
-					"openInNewWindow": false
-				},
-				{
 					"name": "Social Events ",
 					"link": "events.php",
 					"openInNewWindow": false
@@ -78,11 +63,6 @@
 				{
 					"name": "Student Best Paper Award",
 					"link": "student-paper-award.php",
-					"openInNewWindow": false
-				},
-				{
-					"name": "Student Travel Support",
-					"link": "student-travel-support.php",
 					"openInNewWindow": false
 				}
 			]
@@ -92,27 +72,22 @@
 			"links":[
 				{
 					"name": "Hotel",
-					"link": "hotel.php",
+					"link": "http://www3.hilton.com/en/hotels/texas/hilton-university-of-houston-HOUUHHF/index.html",
 					"openInNewWindow": false
 				},
 				{
-					"name": "Big Island",
-					"link": "http://www.gohawaii.com/en/big-island/regions-neighborhoods/kohala-coast/",
-					"openInNewWindow": true
-				},
-				{
 					"name": "Flights",
-					"link": "https://www.google.com/flights/#search;t=r-Big+Island,+United+States-0x7953e7c1c5f73a59%253A0x1455a492f9d78134;d=2017-03-07;r=2017-03-11;mc=e",
+					"link": "https://www.google.com/flights/#search;f=_;t=IAH,HOU;d=2017-04-14;r=2017-04-18;q=flights+to+houston",
 					"openInNewWindow": true
 				},
 				{
 					"name": "Local Information",
-					"link": "http://www.gohawaii.com/en/big-island/regions-neighborhoods/kohala-coast",
+					"link": "http://www.uh.edu/maps/buildings/?short_name=M",
 					"openInNewWindow": true
 				},
 				{
 					"name": "Map",
-					"link": "https://www.google.com/maps/place/Mauna+Lani+Bay+Hotel+%26+Bungalows/@19.946191,-155.8692267,879m/data=!3m1!1e3!4m2!3m1!1s0x79538793d6e16f1f:0xa7e015de3a37325a",
+					"link": "https://www.google.com/maps/place/Charles+F.+McElhinney+Hall,+Houston,+TX+77004/@29.7212254,-95.3486294,17z/data=!3m1!4b1!4m5!3m4!1s0x8640be5150fb31a3:0x96928eff009140db!8m2!3d29.7212284!4d-95.3464297",
 					"openInNewWindow": true
 				}
 			]
@@ -127,18 +102,8 @@
 				},
 				{
 					"name": "Article Templates",
-					"link": "http://css.paperplaza.net/conferences/support/support.php",
+					"link": "https://www.ieee.org/conferences_events/conferences/publishing/templates.html",
 					"openInNewWindow": true
-				},
-				{
-					"name": "PaperPlaza",
-					"link": "http://css.paperplaza.net",
-					"openInNewWindow": true
-				},
-				{
-					"name": "Visa Information",
-					"link": "visa-information.php",
-					"openInNewWindow": false
 				}
 			]
 		},
@@ -153,11 +118,6 @@
 				{
 					"name": "Organizers",
 					"link": "organizers.php",
-					"openInNewWindow": false
-				},
-				{
-					"name": "Visa Information",
-					"link": "visa-information.php",
 					"openInNewWindow": false
 				},
 				{

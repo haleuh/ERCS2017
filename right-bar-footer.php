@@ -25,7 +25,7 @@
 							} 
 
 	 					?>
-	 					<li style="font-size:small;color:red;text-transform:uppercase;cursor:pointer"><a target="_blank" href="resources/CCTA2017.call.for.papers.pdf">Download the call for papers</a></li>
+	 					<li style="font-size:small;color:red;text-transform:uppercase;cursor:pointer"><a target="_blank" href="resources/ERCS2017-CFP.pdf">Download the call for papers</a></li>
 					</ul>
 				</div>
 				
@@ -107,7 +107,7 @@
 				</div>
 				<div id="bottom-section" class="flex justify-center">
 					<div class="center">
-						&copy IEEE <?php echo $json['meta']['conferenceName'] ?>
+						&copy <?php echo $json['meta']['conferenceName'] ?>
 						<br><br>
 						<a target="_blank" href="<?php echo $json['socialMediaLinks']['facebook'] ?>"><i class="fa fa-3x fa-facebook"></i></a>
 						<a target="_blank" href="<?php echo $json['socialMediaLinks']['twitter'] ?>"><i class="fa fa-3x fa-twitter"></i></a>
