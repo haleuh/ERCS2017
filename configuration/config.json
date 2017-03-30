@@ -1,14 +1,14 @@
 {
 	"meta":{
 		"conferenceYear": 2017,
-		"dateStart": "2017-04-24",
-		"dateEnd": "2017-04-24",
+		"dateStart": "2017-05-01",
+		"dateEnd": "2017-05-01",
 		"conferenceName": "ERCS 2017"
 	},
 	"header":{
 		"title" : "ERCS 2017",
 		"subtitle" : "Emerging Research in Computer Science 2017",
-		"dateTitle" : "April 24, 2017",
+		"dateTitle" : "May 01, 2017",
 		"locationPlaceName": "Charles F. McElhinney Hall",
 		"locationAreaName": "University of Houston",
 		"bannerImage":"images/uh-banner.jpg",
@@ -21,7 +21,7 @@
 	},
 	"dates":[
 		{
-			"title":"Paper Submission Opens (<a target='_blank' href='http://css.paperplaza.net/'>link</a>)",
+			"title":"Paper Submission Opens (<a target='_blank' href='http://129.7.242.17/moodle/my/'>link</a>)",
 			"date": "April 10, 2017",
 			"showInNavBar": true
 		},
@@ -31,13 +31,13 @@
 			"showInNavBar": true
 		},
 		{
-			"title":"Final Submissions Due",
+			"title":"Camera Ready Due",
 			"date": "April 23, 2017",
 			"showInNavBar": true
 		},
 		{
 			"title":"ERCS 2017 Conference Dates",
-			"date": "April 24, 2017",
+			"date": "May 1, 2017",
 			"showInNavBar": false
 		}
 	],

@@ -5,7 +5,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 
 <div class="text">
-	The conference will be preceded by an Opening Reception on Monday, April 24, 2017. The Conference Banquet will be held on Monday afternoon, April 24, and the Closing Reception will be held on Monday, April 24. All these events are included in the conference registration. Please watch this page for further information on events at the conference.
+	The conference will be preceded by an Opening Reception on <?php echo $json['header']['dateTitle'];?>. The Conference Banquet will be held on <?php echo $json['header']['dateTitle'];?>, and the Closing Reception will be held on <?php echo $json['header']['dateTitle'];?>. All these events are included in the conference registration. Please watch this page for further information on events at the conference.
 
 </div>
 
