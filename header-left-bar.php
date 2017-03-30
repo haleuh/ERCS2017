@@ -24,7 +24,7 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<meta name="keywords" content="ERCS2017,Conference">
+	<meta name="keywords" content="ERCS2017, Conference">
 
 	<style type="text/css">
 
@@ -103,7 +103,7 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 					<p style="padding:0;margin:0;font-size:smaller">
 						<i style="color:red;margin-right:10px" class="fa fa-1x fa-newspaper-o"></i> 
 						<span id="news-ticker-content">
-							<a id="news-ticker-link" href="#">Paper submission opens April 1, 2016</a>
+							<a id="news-ticker-link" href="#">Paper submission opens April 1, 2017</a>
 						</span>
 					</p>
 				</div>

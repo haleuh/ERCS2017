@@ -46,23 +46,18 @@
 			"title":"conference",
 			"links":[
 				{
-					"name": "Technical Program",
-					"link": "#",
-					"openInNewWindow": false
-				},
-				{
 					"name": "Plenary Speakers",
 					"link": "plenary-speakers.php",
 					"openInNewWindow": false
 				},
 				{
-					"name": "Social Events ",
+					"name": "Social Events",
 					"link": "events.php",
 					"openInNewWindow": false
 				},
 				{
-					"name": "Student Best Paper Award",
-					"link": "student-paper-award.php",
+					"name": "Sponsors",
+					"link": "sponsors.php",
 					"openInNewWindow": false
 				}
 			]
@@ -135,8 +130,8 @@
 	},
 	"newsTicker":[
 		{
-			"content":"Click here for best student paper nomination",
-			"link":"student-paper-award.php",
+			"content":"Click here for submission guideline",
+			"link":"authors.php",
 			"openInNewWindow": false
 		},
 		{

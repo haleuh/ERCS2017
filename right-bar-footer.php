@@ -107,7 +107,7 @@
 				</div>
 				<div id="bottom-section" class="flex justify-center">
 					<div class="center">
-						&copy <?php echo $json['meta']['conferenceName'] ?>
+						&copy <?php echo $json['meta']['conferenceName'] ?> - Based on <a href="https://github.com/bjyurkovich/ieee-conference-web-template">IEEE Conference Web Template</a>
 						<br><br>
 						<a target="_blank" href="<?php echo $json['socialMediaLinks']['facebook'] ?>"><i class="fa fa-3x fa-facebook"></i></a>
 						<a target="_blank" href="<?php echo $json['socialMediaLinks']['twitter'] ?>"><i class="fa fa-3x fa-twitter"></i></a>
