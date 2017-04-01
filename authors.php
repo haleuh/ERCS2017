@@ -25,7 +25,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		<div style="height:20px"></div>
 		<h1>Submission Specifics</h1>
 
-		All papers and session proposals must be submitted through the conference submission website <a target="_blank" style="color:red" href="http://129.7.242.17/moodle/my/">http://129.7.242.17/moodle/my/</a> and must be submitted in English. All submissions must conform to the following policy: 
+		All papers and session proposals must be submitted through the conference submission website <a target="_blank" style="color:red" href="http://www.ercs2017.com/hotcrp/">HotCRP</a> and must be submitted in English. All submissions must conform to the following policy: 
 		<ul>
 			<li>All submitted papers must be formatted in the standard 2-column Proceedings format. <a target="_blank" style="color:red" href="https://www.ieee.org/conferences_events/conferences/publishing/templates.html">Click here</a> for the template in both Latex and Word.</li>
 			<li>For the purposes of review, regular and invited papers are limited to 6 pages. Papers exceeding these limits cannot be uploaded.</li>
